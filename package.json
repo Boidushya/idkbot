@@ -1,0 +1,26 @@
+{
+  "name": "idkbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "discord.js": "^12.4.1",
+    "tesseract.js": "^2.1.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Boidushya/idkbot.git"
+  },
+  "author": "Boidushya Bhattacharyay",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/Boidushya/idkbot/issues"
+  },
+  "homepage": "https://github.com/Boidushya/idkbot#readme"
+}
